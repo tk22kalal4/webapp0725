@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LASTPULSE - DAMS Videos | NEET PG Preparation</title>
+  <meta name="description" content="Access DAMS NEET PG preparation content: B2B English, Hinglish, and Ultimate Live 2025. Top resources for medical entrance exam preparation.">
+  <meta name="keywords" content="NEET PG, DAMS B2B, DAMS Ultimate Live, medical preparation, 2025">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <script src="access-control.js"></script>
+</head>
+<body>
+  <script>
+    // Initialize access control for protected page
+    if (!accessControl.initProtectedPage()) {
+      throw new Error('Access denied - redirecting to index.html');
+    }
+  </script>
+  <header>
+    <div class="header-content">
+      <button onclick="window.location.href='./app.html'" class="back-button">
+        <i class="fas fa-arrow-left"></i>
+      </button>
+      <h1>DAMS Videos</h1>
+      <p class="header-subtitle">Choose Your DAMS Video Course - 2025</p>
+      <div class="search-bar">
+        <i class="fas fa-search"></i>
+        <input type="text" placeholder="Search courses..." id="searchInput">
+      </div>
+    </div>
+  </header>
+  <main>
+    <div class="platform-selector">
+      <button onclick="window.location.href='./platforms/dams/b2b-english-2025.html'">
+        <i class="fas fa-book-medical"></i>
+        <div class="platform-name">DAMS B2B ENGLISH 2025</div>
+        <div class="platform-description">Complete NEET PG coverage in English medium</div>
+      </button>
+      <button onclick="window.location.href='./platforms/dams/b2b-hinglish-2025.html'">
+        <i class="fas fa-user-nurse"></i>
+        <div class="platform-name">DAMS B2B HINGLISH 2025</div>
+        <div class="platform-description">Dual-language format: Hindi + English</div>
+      </button>
+      <button onclick="window.location.href='./platforms/dams/ultimate-live-2025.html'">
+        <i class="fas fa-chalkboard-teacher"></i>
+        <div class="platform-name">DAMS ULTIMATE LIVE 2025</div>
+        <div class="platform-description">Live interactive lectures and real-time discussions</div>
+      </button>
+    </div>
+  </main>
+  <nav class="bottom-nav">
+    <a href="./app.html"><i class="fas fa-lightbulb"></i><span>Home</span></a>
+    <a href="./platforms.html" class="active"><i class="fas fa-play-circle"></i><span>Videos</span></a>
+    <a href="./search.html"><i class="fas fa-search"></i><span>Search</span></a>
+    <a href="./quiz/index.html"><i class="fas fa-question-circle"></i><span>Q Bank</span></a>
+  </nav>
+  <script>
+    // Simple search functionality
+    document.getElementById('searchInput').addEventListener('input', function(e) {
+      const query = e.target.value.toLowerCase();
+      const buttons = document.querySelectorAll('.platform-selector button');
+      buttons.forEach(button => {
+        const text = button.textContent.toLowerCase();
+        button.style.display = text.includes(query) ? 'flex' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>
