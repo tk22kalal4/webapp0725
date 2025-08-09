@@ -1,0 +1,113 @@
+{
+  "subjectName": "Anatomy",
+  "lectures": [
+    {
+        "title": "1. Basics of Dermatology",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6599/1.+Basics+of+Dermatology.mp4?hash=AgADew"
+    },
+    {
+        "title": "2. Skin Lesions in Dermatology",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6600/2.+Skin+Lesions+in+Dermatology.mp4?hash=AgADiw"
+    },
+    {
+        "title": "1. Bacterial Infections",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6601/1.+Bacterial+Infections.mp4?hash=AgADeg"
+    },
+    {
+        "title": "2. Fungal Infections",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6602/2.+Fungal+Infections.mp4?hash=AgADhg"
+    },
+    {
+        "title": "3. Viral Infections of Skin",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6603/3.+Viral+Infections+of+Skin.mp4?hash=AgADkA"
+    },
+    {
+        "title": "4. Parasitic Infestations",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6604/4.+Parasitic+Infestations.mp4?hash=AgADkg"
+    },
+    {
+        "title": "1. Cutaneous Tuberculosis",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6605/1.+Cutaneous+Tuberculosis.mp4?hash=AgADfQ"
+    },
+    {
+        "title": "2. Leprosy",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6606/2.+Leprosy.mp4?hash=AgADhw"
+    },
+    {
+        "title": "1. Immunobullous Disorders and Skin Structure",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6607/1.+Immunobullous+Disorders+and+Skin+Structure.mp4?hash=AgADgg"
+    },
+    {
+        "title": "1. Papulosqaumous Disorders Psoriasis",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6608/1.++Papulosqaumous+Disorders+Psoriasis.mp4?hash=AgADeA"
+    },
+    {
+        "title": "2. Lichen Planus",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6609/2.+Lichen+Planus.mp4?hash=AgADiA"
+    },
+    {
+        "title": "1. Hair Disorders",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6610/1.+Hair+Disorders.mp4?hash=AgADgQ"
+    },
+    {
+        "title": "2. Nail Disorders",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6611/2.+Nail+Disorders.mp4?hash=AgADiQ"
+    },
+    {
+        "title": "3. Disorders of Glands",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6612/3.+Disorders+of+Glands.mp4?hash=AgADjg"
+    },
+    {
+        "title": "1. Genital Ulcer Diseases",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6613/1.+Genital+Ulcer+Diseases.mp4?hash=AgADgA"
+    },
+    {
+        "title": "2. STD Discharge",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6614/2.+STD+Discharge.mp4?hash=AgADjA"
+    },
+    {
+        "title": "1. Eczema",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6615/1.+Eczema.mp4?hash=AgADfg"
+    },
+    {
+        "title": "1. Pigmentary Disorders",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6616/1.+Pigmentary+Disorders.mp4?hash=AgADgw"
+    },
+    {
+        "title": "1. Connective Tissue Diseases",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6617/1.+Connective+Tissue+Diseases.mp4?hash=AgADfA"
+    },
+    {
+        "title": "1. Skin Tumors",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6618/1.+Skin+Tumors.mp4?hash=AgADhA"
+    },
+    {
+        "title": "1. Systemic Diseases Skin",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6619/1.+Systemic+Diseases+Skin.mp4?hash=AgADhQ"
+    },
+    {
+        "title": "1. Adverse Cutaneous Drug Reaction",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6620/1.+Adverse+Cutaneous+Drug+Reaction.mp4?hash=AgADeQ"
+    },
+    {
+        "title": "2. Pediatric Dermatoses",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6621/2.+Pediatric+Dermatoses.mp4?hash=AgADig"
+    },
+    {
+        "title": "3. Urticaria and Angioedema",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6622/3.+Urticaria+and+Angioedema.mp4?hash=AgADjw"
+    },
+    {
+        "title": "4. Genodermatoses",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6623/4.+Genodermatoses.mp4?hash=AgADkQ"
+    },
+    {
+        "title": "5. Vector Borne Diseases",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6624/5.+Vector+Borne+Diseases.mp4?hash=AgADkw"
+    },
+    {
+        "title": "6. Bedside Tests in Dermatology",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6625/6.+Bedside+Tests+in+Dermatology.mp4?hash=AgADlA"
+    }
+  ]
+}
