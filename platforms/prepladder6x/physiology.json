@@ -2,272 +2,268 @@
   "subjectName": "physiology",
   "lectures": [
     {
-        "title": "<code>1. Homeostasis atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6910/1.+Homeostasis+atf.mp4?hash=AgADVw"
+        "title": "1. HOMEOSTASIS",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6533/1.+Homeostasis.mp4?hash=AgADIB"
     },
     {
-        "title": "<code>2. Body Fluids - Distribution and Management atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6911/2.+Body+Fluids+-+Distribution+and+Management+atf.mp4?hash=AgADWA"
+        "title": "2. BODY FLUIDS : DISTRIBUTION AND MANAGEMENT",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6534/2.+Body+Fluids%3B+Distribution+and+Management.mp4?hash=AgADIR"
     },
     {
-        "title": "<code>3. Cell Physiology atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6912/3.+Cell+Physiology+atf.mp4?hash=AgADWQ"
+        "title": "3. CELL PHYSIOLOGY",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6535/3.+Cell+Physiology.mp4?hash=AgADIh"
     },
     {
-        "title": "<code>4. Transport Across Cell Membrane atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6913/4.+Transport+Across+Cell+Membrane+atf.mp4?hash=AgADWg"
+        "title": "4. TRANSPORT ACROSS CELL MEMBRANE",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6536/4.+Transport+Across+Cell+Membrane.mp4?hash=AgADIx"
     },
     {
-        "title": "<code>5. Nerve and Neuron atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6914/5.+Nerve+and+Neuron+atf.mp4?hash=AgADXg"
+        "title": "5. NEURON AND NERVE",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6537/1.+Nerve+And+Neuron.mp4?hash=AgADJB"
     },
     {
-        "title": "<code>6. Resting Membrane Potential atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6915/6.+Resting+Membrane+Potential+atf.mp4?hash=AgADXw"
+        "title": "6. RESTING MEMBRANE POTENTIAL",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6538/2.+Resting+Membrane+Potential.mp4?hash=AgADJh"
     },
     {
-        "title": "<code>7. Action Potential in Neuron atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6916/7.+Action+Potential+in+Neuron+atf.mp4?hash=AgADYA"
+        "title": "7. ACTION POTENTIAL IN NEURON",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6539/3.+Action+Potential+in+Neuron.mp4?hash=AgADJx"
     },
     {
-        "title": "<code>8. Nerve Fiber Classification atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6917/8.+Nerve+Fiber+Classification+atf.mp4?hash=AgADYQ"
+        "title": "8. NERVE FIBRE CLASSIFICATION",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6540/4.+Nerve+Fiber+Classification-.mp4?hash=AgADKB"
     },
     {
-        "title": "<code>9. Functional Anatomy of Skeletal Muscle Part 1 atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6918/9.+Functional+Anatomy+of+Skeletal+Muscle+Part+1+atf.mp4?hash=AgADYg"
+        "title": "9. FUNCTIONAL ANATOMY OF SKELETAL MUSCLE (PART-1)",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6541/5.+Structural+Functional+Anatomy+of+Skeletal+Muscle+Part+1.mp4?hash=AgADKR"
     },
     {
-        "title": "<code>10. Functional Anatomy of Skeletal Muscle Part 2 atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6919/10.+Functional+Anatomy+of+Skeletal+Muscle+Part+2+atf.mp4?hash=AgADWw"
+        "title": "10. FUNCTIONAL ANATOMY OF SKELETAL MUSCLE (PART-2)",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6542/6.+Structural+Functional+Anatomy+of+Skeletal+Muscle+Part+2.mp4?hash=AgADKh"
     },
     {
-        "title": "<code>11. Motor Unit atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6920/11.+Motor+Unit+atf.mp4?hash=AgADXA"
+        "title": "11. MOTOR UNIT",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6543/7.+Motor+Unit.mp4?hash=AgADKx"
     },
     {
-        "title": "<code>12. Smooth Muscle atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6921/12.+Smooth+Muscle+atf.mp4?hash=AgADXQ"
+        "title": "12. SMOOTH MUSCLE",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6544/8.+Smooth+Muscle.mp4?hash=AgADLB"
     },
     {
-        "title": "<code>13. Conducting System of the Heart atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6922/13.+Conducting+System+of+the+Heart+atf.mp4?hash=AgADYw"
+        "title": "13. CONDUCTING SYSTEM OF THE HEART",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6545/1.+Live+Conducting+System+of+Heart.mp4?hash=AgADLR"
     },
     {
-        "title": "<code>14. Action Potential on Heart atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6923/14.+Action+Potential+on+Heart+atf.mp4?hash=AgADZA"
+        "title": "14. ACTION POTENTIAL ON HEART",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6546/2.+Action+Potential+on+Heart.mp4?hash=AgADLh"
     },
     {
-        "title": "<code>15. ECG - Basic Concepts atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6924/15.+ECG+-+Basic+Concepts+atf.mp4?hash=AgADZQ"
+        "title": "15. ECG : BASIC CONCEPTS",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6547/3.+Live+ECG+Basic+Concepts.mp4?hash=AgADLx"
     },
     {
-        "title": "<code>16. Cardiac Cycle atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6925/16.+Cardiac+Cycle+atf.mp4?hash=AgADZg"
+        "title": "16. CARDIAC CYCLE",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6548/4.+Live+Cardiac+Cycle.mp4?hash=AgADMB"
     },
     {
-        "title": "<code>17. Cardiac Output atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6926/17.+Cardiac+Output+atf.mp4?hash=AgADZw"
+        "title": "17. CARDIAC OUTPUT",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6549/5-+Cardiac+output.mp4?hash=AgADMR"
     },
     {
-        "title": "<code>18. Hemodynamics atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6927/18.+Hemodynamics+atf.mp4?hash=AgADaA"
+        "title": "18. HEMODYNAMICS",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6550/6.+Live+Hemodynamics.mp4?hash=AgADMh"
     },
     {
-        "title": "<code>19. Blood Pressure and It&#x27;s Regulation atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6928/19.+Blood+Pressure+and+It%27s+Regulation+atf.mp4?hash=AgADaQ"
+        "title": "19. BLOOD PRESSURE AND ITS REGULATION",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6551/7.+Live+Blood+Pressure+It%27s+Regulation.mp4?hash=AgADMx"
     },
     {
-        "title": "<code>20. Regional Circulation atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6929/20.+Regional+Circulation+atf.mp4?hash=AgADag"
+        "title": "20. REGIONAL CIRCULATION",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6552/8.+Regional+Circulation+Coronary+and+Cerebral+New.mp4?hash=AgADNR"
     },
     {
-        "title": "<code>21. Hematopoiesis and Blood Cells atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6930/21.+Hematopoiesis+and+Blood+Cells+atf.mp4?hash=AgADaw"
+        "title": "21. HEMATOPOIESIS AND BLOOD CELLS",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6553/1.+Hematopoiesis+and+Blood+Cells.mp4?hash=AgADOh"
     },
     {
-        "title": "<code>22. Hemostasis atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6931/22.+Hemostasis+atf.mp4?hash=AgADbA"
+        "title": "22. HEMOSTASIS",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6554/2.+Hemostasis-New+.mp4?hash=AgADNh"
     },
     {
-        "title": "<code>23. Functional Anatomy of Renal Physiology atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6932/23.+Functional+Anatomy+of+Renal+Physiology+atf.mp4?hash=AgADbQ"
+        "title": "23. FUNCTIONAL ANATOMY OF RENAL PHYSIOLOGY",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6555/1.+Functional+Anatomy+of+Renal+Physiology.mp4?hash=AgADQB"
     },
     {
-        "title": "<code>24. GFR and It&#x27;s Regulation atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6933/24.+GFR+and+It%27s+Regulation+atf.mp4?hash=AgADbg"
+        "title": "24. GFR AND IT'S REGULATION",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6556/2.+Gfr+It%27s+Regulation.mp4?hash=AgADQh"
     },
     {
-        "title": "<code>25. JG Appratus atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6934/25.+JG+Appratus+atf.mp4?hash=AgADbw"
+        "title": "25. JG APPARATUS",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6557/3.+JG+Appratus.mp4?hash=AgADQx"
     },
     {
-        "title": "<code>26. Clearance atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6935/26.+Clearance+atf.mp4?hash=AgADcA"
+        "title": "26. CLEARANCE",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6558/4.+Clearance.mp4?hash=AgADOx"
     },
     {
-        "title": "<code>27. Tubular Transport Part 1 atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6936/27.+Tubular+Transport+Part+1+atf.mp4?hash=AgADcQ"
+        "title": "27. TUBULAR TRANSPORT PART-1",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6559/5.+Tubular+Transport+Part+1.mp4?hash=AgADPB"
     },
     {
-        "title": "<code>28. Tubular Transport Part 2 atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6937/28.+Tubular+Transport+Part+2+atf.mp4?hash=AgADcw"
+        "title": "28. TUBULAR TRANSPORT PART-2",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6560/6.+Tubular+Transport+Part+2.mp4?hash=AgADPR"
     },
     {
-        "title": "<code>29. Acid Secreation of Kidney atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6938/29.+Acid+Secreation+of+Kidney+atf.mp4?hash=AgADdA"
+        "title": "29. ACID SECRETION IN KIDNEY",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6561/7-+Acid+secreation+of+kidney.mp4?hash=AgADPh"
     },
     {
-        "title": "<code>30. Counter Current System in Kidney atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6939/30.+Counter+Current+System+in+Kidney+atf.mp4?hash=AgADdQ"
+        "title": "30. COUNTER CURRENT SYSTEM",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6562/8.+Counter+Current+System+in+Kidney.mp4?hash=AgADPx"
     },
     {
-        "title": "<code>31. Functional Anatomy of the Respiratory System atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6940/31.+Functional+Anatomy+of+the+Respiratory+System+atf.mp4?hash=AgADdg"
+        "title": "31. FUNCTIONAL ANATOMY OF RESPIRATORY SYSTEM",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6563/1.+Functional+Anatomy+of+The+Respiratory+System+new.mp4?hash=AgADTB"
     },
     {
-        "title": "<code>32. Mechanics of Respiration atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6941/32.+Mechanics+of+Respiration+atf.mp4?hash=AgADdw"
+        "title": "32. MECHANICS OF RESPIRATION",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6564/2.+Mechanics+of+Respiration+new.mp4?hash=AgADAR"
     },
     {
-        "title": "<code>33. Ventilation - Perfusion of Lungs atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6942/33.+Ventilation+-+Perfusion+of+Lungs+atf.mp4?hash=AgADeQ"
+        "title": "33. VENTILATION - PERFUSION OF LUNGS",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6565/3.+Ventilation+Perfusion+of+Lungs.mp4?hash=AgADAh"
     },
     {
-        "title": "<code>34. Compliance of Lung atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6943/34.+Compliance+of+Lung+atf.mp4?hash=AgADeg"
+        "title": "34. COMPLIANCE OF LUNGS",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6566/4.Compliance+of+Lung+New.mp4?hash=AgADRB"
     },
     {
-        "title": "<code>35. Lung Volume Capacities atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6944/35.+Lung+Volume+Capacities+atf.mp4?hash=AgADew"
+        "title": "35. LUNG VOLUME AND CAPACITIES",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6567/5.+Lung+Volume+Capacities+New.mp4?hash=AgADRR"
     },
     {
-        "title": "<code>36. Principles of Gas Diffusion atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6945/36.+Principles+of+Gas+Diffusion+atf.mp4?hash=AgADfQ"
+        "title": "36. PRINCIPLES OF GAS DIFFUSION",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6568/6.+Principles+of+Gas+Diffusion.mp4?hash=AgADRh"
     },
     {
-        "title": "<code>37. Oxygen Transport atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6946/37.+Oxygen+Transport+atf.mp4?hash=AgADfw"
+        "title": "37. OXYGEN TRANSPORT",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6569/7.+Oxygen+Transport.mp4?hash=AgADRx"
     },
     {
-        "title": "<code>38. Carbon Dioxide Transport atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6947/38.+Carbon+Dioxide+Transport+atf.mp4?hash=AgADgA"
+        "title": "38. CARBON DIOXIDE TRANSPORT",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6570/8.+Carbon+Dioxide+Transport.mp4?hash=AgADSB"
     },
     {
-        "title": "<code>39. Regulation of Respiration atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6948/39.+Regulation+of+Respiration+atf.mp4?hash=AgADgQ"
+        "title": "39. REGULATION OF RESPIRATION",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6571/9.+Regulation+of+Respiration.mp4?hash=AgADSR"
     },
     {
-        "title": "<code>40. Hypoxia atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6949/40.+Hypoxia+atf.mp4?hash=AgADgg"
+        "title": "40. HYPOXIA",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6572/10.+Hypoxia.mp4?hash=AgADSx"
     },
     {
-        "title": "<code>41. High Altitude Physiology atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6950/41.+High+Altitude+Physiology+atf.mp4?hash=AgADgw"
+        "title": "41. HIGH ALTITUDE PHYSIOLOGY",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6573/11.+High+Altitude+Physiology.mp4?hash=AgADWR"
     },
     {
-        "title": "<code>42. Deep Sea Diving atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6951/42.+Deep+Sea+Diving+atf.mp4?hash=AgADhA"
+        "title": "42. DEEP SEA DIVING",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6574/12.+Deep+Sea+Diving.mp4?hash=AgADWB"
     },
     {
-        "title": "<code>43. Motility of Git atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6952/43.+Motility+of+Git+atf.mp4?hash=AgADhQ"
+        "title": "43. MOTILITY OF GIT",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6575/1.+Motility+of+Git.mp4?hash=AgADWh"
     },
     {
-        "title": "<code>44. GI Hormones atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6953/44.+GI+Hormones+atf.mp4?hash=AgADhg"
+        "title": "44. GI HORMONES",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6576/2.+Gi+Hormones.mp4?hash=AgADWx"
     },
     {
-        "title": "<code>45. Secretion and Absorption atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6954/45.+Secretion+and+Absorption+atf.mp4?hash=AgADhw"
+        "title": "45. SECRETION AND ABSORPTION",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6577/3.+Secretion+and+Absorption.mp4?hash=AgADXB"
     },
     {
-        "title": "<code>46. Synapse - Pre Synaptic Events atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6955/46.+Synapse+-+Pre+Synaptic+Events+atf.mp4?hash=AgADiA"
+        "title": "46. SYNAPSE : PRE SYNAPTIC EVENTS",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6578/1.+Synapse+Pre+Synaptic+Events.mp4?hash=AgADXx"
     },
     {
-        "title": "<code>47. Synapse - Post Synaptic Events atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6956/47.+Synapse+-+Post+Synaptic+Events+atf.mp4?hash=AgADiQ"
+        "title": "47. SYNAPSE: POST SYNAPTIC EVENTS",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6579/2.+Synapse+Post+Synaptic+Events.mp4?hash=AgADYB"
     },
     {
-        "title": "<code>48. Synaptic Inhibition atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6957/48.+Synaptic+Inhibition+atf.mp4?hash=AgADig"
+        "title": "48. SYNAPTIC INHIBITION",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6580/3.+Synaptic+Inhibition.mp4?hash=AgADYR"
     },
     {
-        "title": "<code>49. Somatosensory Receptors atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6958/49.+Somatosensory+Receptors+atf.mp4?hash=AgADiw"
+        "title": "49. SOMATOSENSORY RECEPTORS",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6581/4.+Somato+Sensory+Receptor.mp4?hash=AgADYx"
     },
     {
-        "title": "<code>50. Nociceptors atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6959/50.+Nociceptors+atf.mp4?hash=AgADjA"
+        "title": "50. NOCICEPTORS",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6582/5.+Nociceptor.mp4?hash=AgADZR"
     },
     {
-        "title": "<code>51. Proprioceptors and Reflexes atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6960/51.+Proprioceptors+and+Reflexes+atf.mp4?hash=AgADjQ"
+        "title": "51. PROPRIOCEPTORS AND REFLEXES",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6583/6.+Proprioceptors+and+Reflexes.mp4?hash=AgADZh"
     },
     {
-        "title": "<code>52. Ascending Tracts of Spinal Cord atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6961/52.+Ascending+Tracts+of+Spinal+Cord+atf.mp4?hash=AgADjg"
+        "title": "52. ASCENDING TRACTS OF SPINAL CORD",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6584/52.+ASCENDING+TRACTS+OF+SPINAL+CORD?hash=AgADEw"
     },
     {
-        "title": "<code>53. Descending Tracts of Spinal Cord atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6962/53.+Descending+Tracts+of+Spinal+Cord+atf.mp4?hash=AgADjw"
+        "title": "53. DESCENDING TRACTS OF SPINAL CORD",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6585/53.+DESCENDING+TRACTS+OF+SPINAL+CORD?hash=AgADPQ"
     },
     {
-        "title": "<code>54. Basal Ganglia Cerebellum atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6963/54.+Basal+Ganglia+Cerebellum+atf.mp4?hash=AgADkA"
+        "title": "54. BASAL GANGLIA AND CEREBELLUM",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6586/9.+Basal+Ganglia+Cerebellum.mp4?hash=AgADXR"
     },
     {
-        "title": "<code>55. Special Senses Visual and Auditory Receptors atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6964/55.+Special+Senses+Visual+and+Auditory+Receptors+atf.mp4?hash=AgADkQ"
+        "title": "55. SPECIAL SENSES : VISUAL AND AUDITORY RECEPTORS",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6587/10.+Special+Senses+Visual+and+Auditory+Receptors.mp4?hash=AgADXh"
     },
     {
-        "title": "<code>56. Special Senses Smell and Taste Receptors atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6965/56.+Special+Senses+Smell+and+Taste+Receptors+atf.mp4?hash=AgADkg"
+        "title": "56. SPECIAL SENSES: SMELL AND TASTE RECEPTORS",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6588/11.+Special+Senses+Smell+and+Taste+Receptors.mp4?hash=AgADah"
     },
     {
-        "title": "<code>57. Hypothalamus and Limbic System atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6966/57.+Hypothalamus+and+Limbic+System+atf.mp4?hash=AgADlA"
+        "title": "57. HYPOTHALAMUS AND LIMBIC SYSTEM",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6589/12.+Hypothalamus+and+Limbic+System.mp4?hash=AgADZx"
     },
     {
-        "title": "<code>58. Eeg and Sleep atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6967/58.+Eeg+and+Sleep+atf.mp4?hash=AgADlQ"
+        "title": "58. EEG AND SLEEP",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6590/13.+EEG+and+Sleep.mp4?hash=AgADaB"
     },
     {
-        "title": "<code>59. Learning and Memory atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6968/59.+Learning+and+Memory+atf.mp4?hash=AgADlg"
+        "title": "59. LEARNING AND MEMORY",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6591/14.+Learning+and+Memory.mp4?hash=AgADaR"
     },
     {
-        "title": "<code>60. Mechanisms of Hormone Actions atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6969/60.+Mechanisms+of+Hormone+Actions+atf.mp4?hash=AgADlw"
+        "title": "60. MECHANISM OF HORMONE ACTIONS",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6592/1.+Mechanisms+of+Hormone+Actions.mp4?hash=AgADcR"
     },
     {
-        "title": "<code>61. Pituitary Hormones atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6970/61.+Pituitary+Hormones+atf.mp4?hash=AgADmA"
+        "title": "61. PITUITARY HORMONES",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6593/2.+Pituitary+Hormones.mp4?hash=AgADch"
     },
     {
-        "title": "<code>62. Thyroid Hormones atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6971/62.+Thyroid+Hormones+atf.mp4?hash=AgADmQ"
+        "title": "62. THYROID HORMONES",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6594/3.+Thyroid+Hormones.mp4?hash=AgADax"
     },
     {
-        "title": "<code>63. Endocrine Pancrease atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6972/63.+Endocrine+Pancrease+atf.mp4?hash=AgADmg"
+        "title": "63. ENDOCRINE PANCREAS",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6595/4.+Endocrine+Pancrease.mp4?hash=AgADbB"
     },
     {
-        "title": "<code>64. Hormonal Regulation of Calcium Balance atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6973/64.+Hormonal+Regulation+of+Calcium+Balance+atf.mp4?hash=AgADmw"
+        "title": "64. HORMONAL REGULATION OF CALCIUM BALANCE",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6596/5.+Hormonal+Regulation+of+Calcium+Balance.mp4?hash=AgADbR"
     },
     {
-        "title": "<code>65. Adrenal Physiology atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6974/65.+Adrenal+Physiology+atf.mp4?hash=AgADnA"
+        "title": "65. ADRENAL PHYSIOLOGY",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6597/6.+Adrenal+Physiology.mp4?hash=AgADbh"
     },
     {
-        "title": "<code>66. Male Reproductive Physiology atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6975/66.+Male+Reproductive+Physiology+atf.mp4?hash=AgADnQ"
-    },
-    {
-        "title": "<code>67. Female Reproductive Physiology atf.mp4</code>",
-        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6976/67.+Female+Reproductive+Physiology+atf.mp4?hash=AgADng"
+        "title": "67. FEMALE REPRODUCTIVE PHYSIOLOGY",
+        "streamingUrl": "https://stream4.nextpulse.workers.dev/watch/6598/8.+Female+Reproductive+Physiology.mp4?hash=AgADcB"
     }
   ]
 }
